@@ -1,6 +1,0 @@
-D:\MyProgram\Sort\Sort\bin\Debug\Sort.exe.config
-D:\MyProgram\Sort\Sort\bin\Debug\Sort.exe
-D:\MyProgram\Sort\Sort\bin\Debug\Sort.pdb
-D:\MyProgram\Sort\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
-D:\MyProgram\Sort\Sort\obj\Debug\Sort.exe
-D:\MyProgram\Sort\Sort\obj\Debug\Sort.pdb
